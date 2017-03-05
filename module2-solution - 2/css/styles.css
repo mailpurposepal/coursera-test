@@ -1,0 +1,100 @@
+
+body {
+	margin: 0;
+  	padding: 0;
+  	font-family: "comic sans ms", arial, sans-sherif;
+  
+  	
+}
+
+
+#main-title {
+
+	margin-bottom: 30px;
+}
+
+.section-title {
+	font-size: 1.8em;
+	font-weight: bold;
+	text-align: center;
+
+}
+.chicken {
+	background-color: #999999;
+	padding: 0 8px 10px 10px;
+	font-weight: bold;
+	box-sizing: border-box;
+	width: 100%;
+	position: relative;
+	margin-right: 0;
+	margin-left: 0;
+}
+.beef {
+	background-color: #999999;
+	padding: 0 8px 10px 10px;
+	font-weight: bold;
+	box-sizing: border-box;
+	width: 100%;
+	position: relative;
+	margin-right: 0;
+	margin-left: 0;
+}
+.sushi {
+	background-color: #999999;
+	padding: 0 8px 10px 10px;
+	font-weight: bold;
+	box-sizing: border-box;
+	width: 100%;
+	position: relative;
+	margin-right: 0;
+	margin-left: 0;
+}
+#nav-list {
+  margin-top: 10px;
+  
+  
+}
+#nav-list a {
+  color: #000;
+  text-align: center;
+  border: 1px solid #000;
+}
+
+/*#nav-list li a {
+	width: 100%;
+	height: auto;
+	position: relative;
+	overflow: hidden;
+
+	text-align: center;
+	border: 1px solid #000;
+}*/
+
+/********** Large devices only **********/
+@media (min-width: 1200px) {
+	
+}
+
+/********** Medium devices only **********/
+@media (min-width: 992px) and (max-width: 1199px) {
+	
+ 
+}
+
+/********** Small devices only **********/
+@media (min-width: 768px) and (max-width: 991px) {
+ 	
+}
+
+/********** Extra small devices only **********/
+@media (max-width: 767px) {
+		
+}
+
+
+/********** Super extra small devices Only :-) (e.g., iPhone 4) **********/
+@media (max-width: 479px) {
+ 
+	
+  
+}
